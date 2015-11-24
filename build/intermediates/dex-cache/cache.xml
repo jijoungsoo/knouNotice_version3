@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlcleaner/htmlcleaner/2.6.1/1ba0657485df82e6e2a41a498d9b101bfac82d23/htmlcleaner-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ba0657485df82e6e2a41a498d9b101bfac82d23">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/htmlcleaner-2.6.1-fea418abe0d2858262e3869ead09d844ab06cd89.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-e1931c553eb285204e7bafeb864d4469bb719e70.jar" />
+    </item>
+    <item
+        jar="/home/jijs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-ca0caa9efebb0d64131e125483a0b410bc527601.jar" />
+    </item>
+    <item
+        jar="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/classes-dd3000644aa422438b79f151210ebe623c8c1387.jar" />
+    </item>
+    <item
+        jar="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/classes-bac2620e874f7a1600f3dcff3840e9a7ebf46ef4.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.5/2001db51c131e555bafdb77fc52af6a9408c505e/jdom2-2.0.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2001db51c131e555bafdb77fc52af6a9408c505e">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/jdom2-2.0.5-258d61e753dc82146b4b14dae2384d41ec94452d.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/gson-2.3.1-62a14dbfec14863555a2f3c95c47884834ed5bce.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/okio-1.6.0-f698da8bab06fc1a5da9bdd6a20756ec17d59f51.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-e24e7b90f66c6a350c4ea98a704dad7fd89f25f8.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-aa19a1d237ae54879a3298e25b89611bb32234f7.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-799496f47df6a9edd5c7e54823d9dddc5d3f26b9.jar" />
+    </item>
+    <item
+        jar="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6bc2f0a2169beb4815e3fe349749e749f15ceab9.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48-153a24e9bbe98ec9bad4ef708bccebe0ee48bebf.jar" />
+    </item>
+    <item
+        jar="/home/jijs/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/jijs/AndroidStudioProjects/KnouNoticeWithOrmLite/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48-474df689ce7df71627ffc64f069fe5c734ed989f.jar" />
+    </item>
+
+</items>

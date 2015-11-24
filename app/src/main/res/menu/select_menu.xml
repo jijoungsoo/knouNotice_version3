@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/item01"  android:title="국어국문학과">4</item>
+	<item android:id="@+id/item02" android:title="영어영문학과">5</item>
+	<item android:id="@+id/item03" android:title="중어중문학과">27</item>
+	<item android:id="@+id/item04" android:title="불어불문학과">28</item>
+	<item android:id="@+id/item04" android:title="일본학과">6</item>
+	<item android:id="@+id/item04" android:title="법학과">9</item>
+	<item android:id="@+id/item04" android:title="행정학과">10</item>
+	<item android:id="@+id/item04" android:title="경제학과">28</item>
+	<item android:id="@+id/item04" android:title="경영학과">30</item>
+	<item android:id="@+id/item04" android:title="무역학과">31</item>
+	<item android:id="@+id/item04" android:title="미디어영상학과">18</item>
+	<item android:id="@+id/item04" android:title="관광학과">32</item>
+	<item android:id="@+id/item04" android:title="농학과">33</item>
+	<item android:id="@+id/item04" android:title="가정학과">34</item>
+	<item android:id="@+id/item04" android:title="컴퓨터과학과">29</item>
+	<item android:id="@+id/item04" android:title="정보통계학과">35</item>
+	<item android:id="@+id/item04" android:title="환경보건학과">36</item>
+	<item android:id="@+id/item04" android:title="간호학과">37</item>
+	<item android:id="@+id/item04" android:title="교육과">38</item>
+	<item android:id="@+id/item04" android:title="유아교육과">39</item>
+	<item android:id="@+id/item04" android:title="문화교양학과">40</item>
+	<item android:id="@+id/item04" android:title="교육학과">62</item>
+	<item android:id="@+id/item04" android:title="청소년교육과">63</item>
+	
+</menu>

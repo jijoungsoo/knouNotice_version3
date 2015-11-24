@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#000000"
+	android:gravity="center_horizontal">
+	<LinearLayout android:orientation="horizontal"
+		android:background="#ffffff" android:layout_width="fill_parent"
+		android:layout_marginBottom="15dp" android:layout_height="wrap_content">
+		<ImageView android:id="@+id/ivLogoKnou"
+			android:layout_marginTop="10dp" android:layout_marginLeft="10dp"
+			android:layout_marginBottom="10dp" android:layout_width="wrap_content"
+						android:layout_gravity="left|center_vertical"
+			android:layout_height="wrap_content" android:src="@drawable/knou_logo" />
+
+		<ImageView android:id="@+id/ivLogoHanwoorii"
+			android:layout_marginTop="10dp" 
+			android:layout_marginLeft="30dp"
+			android:layout_gravity="right|center_vertical"
+			android:layout_marginBottom="10dp" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/hanwoorii_logo" />
+	</LinearLayout>
+
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<LinearLayout android:orientation="vertical"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:layout_weight="1">
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:text="학과선택"
+				android:textSize="15dp" android:textStyle="bold|normal"
+				android:textColor="#ffffff" android:gravity="center_horizontal|center_vertical" />
+
+			<Spinner android:id="@+id/spDepartment" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:prompt="@string/select"></Spinner>
+		</LinearLayout>
+		<LinearLayout android:orientation="vertical"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:text="지역대학선택"
+				android:textSize="15dp" android:textStyle="bold|normal"
+				android:textColor="#ffffff" android:gravity="center_horizontal|center_vertical" />
+			<Spinner android:id="@+id/spLocation" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:prompt="@string/select"></Spinner>
+		</LinearLayout>
+	</LinearLayout>
+
+
+	<TextView android:layout_width="fill_parent"
+		android:layout_marginTop="15dp" android:layout_height="wrap_content"
+		android:id="@+id/tvGonggi" android:text="공지사항" android:textSize="15dp"
+		android:textStyle="bold" android:textColor="#ffffff"
+		android:gravity="center_horizontal|center_vertical" />
+
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+
+		<ToggleButton android:id="@+id/tgbtnChange"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:textOn="온라인" android:layout_gravity="center_horizontal|center_vertical"
+			android:textOff="오프라인" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" android:layout_weight="1" />
+
+
+		<Button android:id="@+id/btnKA" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="학교공지"
+			android:layout_gravity="center_horizontal|center_vertical"
+			android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" android:layout_weight="1" />
+
+
+	</LinearLayout>
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<Button android:id="@+id/btnDP" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="학과공지"
+			android:layout_weight="1" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" />
+
+		<Button android:id="@+id/btnLU" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="지역대학공지"
+			android:layout_weight="1" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" />
+
+	</LinearLayout>
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<Button android:id="@+id/btnDownload" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="첨부파일보기"
+			android:layout_weight="1" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" />
+
+
+
+	</LinearLayout>
+
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_marginTop="20dp" android:layout_width="fill_parent"
+		android:layout_weight="1"
+		android:layout_height="fill_parent">
+		<Button android:id="@+id/btnAlarm" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="게시물 확인 설정"
+			android:layout_weight="1" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" />
+
+		<Button android:id="@+id/btnInfo" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="만든이"
+			android:layout_weight="1" android:gravity="center_horizontal|center_vertical"
+			android:textStyle="bold" />
+
+	</LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

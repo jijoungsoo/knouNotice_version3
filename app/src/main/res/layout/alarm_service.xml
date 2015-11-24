@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:padding="4dip" android:gravity="center_horizontal"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+
+	<LinearLayout android:orientation="vertical"
+
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="#393632" android:layout_margin="5dp"
+		android:padding="5dp" android:gravity="center_vertical|center_horizontal">
+
+<TextView 	android:layout_width="fill_parent" android:layout_height="wrap_content"
+android:text="해당시간에  인터넷에 접속하여서 선택되어진 학과 및 지역대학, 학교공지 사항에 새로운 게시물이 있는지 확인하고 통지합니다." />
+
+	</LinearLayout>
+	
+
+	<LinearLayout android:orientation="vertical"
+
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="#393632" android:layout_margin="5dp"
+		android:padding="5dp" android:gravity="center_vertical|center_horizontal">
+
+<TextView 	android:layout_width="fill_parent" android:layout_height="wrap_content"
+android:textSize='30dp'
+android:gravity="center_horizontal"
+android:textStyle="bold"
+android:id="@+id/tvTimeDisplay" />
+
+		<Button android:id="@+id/btnPickTime" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:layout_weight="1"
+			android:text="시간설정" />
+	</LinearLayout>
+
+	<LinearLayout android:orientation="horizontal"
+
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="#393632" android:layout_margin="5dp"
+		android:padding="5dp" android:gravity="center_vertical|center_horizontal">
+
+		<ToggleButton android:id="@+id/btnAlarm"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:layout_weight="1" android:textOn="새 게시물확인" android:textOff="새 게시물확인"
+			android:checked="false" />
+		<Button android:id="@+id/btnClose" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:layout_weight="1"
+			android:text="닫기" />
+	</LinearLayout>
+	
+	    	<View android:layout_width="fill_parent"
+	    	    android:layout_weight="1"
+		android:layout_height="fill_parent" />
+	
+
+
+</LinearLayout>
+
